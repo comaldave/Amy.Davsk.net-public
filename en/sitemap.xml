@@ -3,11 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://amy.davsk.net/blog/under-construction/</loc>
+    <lastmod>2019-01-24T16:08:08-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://amy.davsk.net/blog/readme/</loc>
   </url>
   
   <url>
     <loc>https://amy.davsk.net/</loc>
+    <lastmod>2019-01-24T16:08:08-06:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -23,6 +29,7 @@
   
   <url>
     <loc>https://amy.davsk.net/blog/</loc>
+    <lastmod>2019-01-24T16:08:08-06:00</lastmod>
     <priority>0</priority>
   </url>
   
